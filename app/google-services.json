@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228391205928",
+    "project_id": "newone-b7ec6",
+    "storage_bucket": "newone-b7ec6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228391205928:android:784b93750009b4c706c91d",
+        "android_client_info": {
+          "package_name": "com.example.newone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228391205928-cekbkeb02l4rjsncsopudpu0kk90jbq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGQcYiL2jZSE1chEqDw0uYdHd9IhNxDkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228391205928-cekbkeb02l4rjsncsopudpu0kk90jbq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
